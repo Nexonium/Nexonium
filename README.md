@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Nexonium.
 - 🌱 I’m making video games.
--  [ROOMGAZE](https://store.steampowered.com/app/3643220/ROOMGAZE/), [Screenplay](https://store.steampowered.com/app/1830700/ScreenPlay_CCG/), [The Wild Eight](https://store.steampowered.com/app/526160/The_Wild_Eight/), and some other titles that you probably heard of. Probably.
+- 🎮 [ROOMGAZE](https://store.steampowered.com/app/3643220/ROOMGAZE/), [Screenplay](https://store.steampowered.com/app/1830700/ScreenPlay_CCG/), [The Wild Eight](https://store.steampowered.com/app/526160/The_Wild_Eight/), and some other titles that you probably heard of. Probably.
 - 📫 How to reach me: nexonium@gmail.com
 
 <!---
